@@ -10,8 +10,11 @@ Our approach is a BERT-based deep learning model to accurately predict the locat
 # Technology Stack
 
 CPU: Intel Core i7 or equivalent, 6+ cores.
+
 RAM: Minimum 16 GB, preferably 32 GB.
+
 GPU: Dedicated, 6 GB VRAM minimum, NVIDIA GeForce RTX 2060.
+
 Libraries: Tensorflow, Transformers, Pytorch, Numpy, Pandas
 
 
